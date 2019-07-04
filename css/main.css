@@ -17,6 +17,10 @@ body {
 	target: center;
 	flex-direction: column;
 	min-height: 100vh;
+    color: crimson;
+    text-decoration-style: wavy;
+    font-family: cursive;
+    font-style: italic;
 	
 }
 
@@ -28,14 +32,7 @@ h2 {
 	transition: linear all 10s;
 	}
 
-	body {
-	color: firebrick;
-	font-family: 'Courier New', Courier, monospace;
-	font-display: bold;
-	font-style: italic;
-	background-color: lightgray;
-	
-}
+
 
 /******Modal Stylings*******/
 /* Style the Image Used to Trigger the Modal */
